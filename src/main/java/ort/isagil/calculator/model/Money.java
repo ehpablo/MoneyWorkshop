@@ -3,7 +3,7 @@ package ort.isagil.calculator.model;
 public class Money {
     private int monto;
     private String tipoMoneda;
-
+//comentario del grupo 4
     public Money(int monto, String tipoMoneda) {
         this.monto = monto;
         this.tipoMoneda = tipoMoneda;
